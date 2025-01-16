@@ -2,7 +2,7 @@ defmodule ExplorerAppTest do
   use ExUnit.Case
   doctest ExplorerApp
 
-  test "should test the app" do
-    assert :ok = ExplorerApp.test()
+  test "greets the world" do
+    assert ExplorerApp.hello() == :world
   end
 end
