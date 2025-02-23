@@ -1,3 +1,5 @@
+# ✅ FIXED!
+
 # ExplorerApp
 
 This is a simple application to reproduce issues found using [Explorer](https://github.com/elixir-explorer/explorer).
